@@ -1,6 +1,6 @@
 # prework-study-guide
 A study guide for course pre-work.
-# <Jessica's Prework Study Guide Webpage>
+# Jessica's Prework Study Guide Webpage
 
 ## Description
 
